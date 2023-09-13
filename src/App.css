@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    background-color: #192237;
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #7477FF;
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #464798;
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #192237;
+    margin-top: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+body {
+    @apply text-lg
+}
+
+.projects img {
+    width: 100%;
+}
+
+/* color */
+.bg-primary {
+    background: #192237;
+}
+
+.bg-primary-fd{
+    background: #192237;
+}
+
+.bg-secondery {
+    background: #1E293B;
+}
+
+.bg-accent {
+    background: #7477FF;
+}
+
+.text-accent {
+    color: #7477FF;
+}
+
+
+nav li a {
+    @apply px-4 py-5 text-lg;
+}
+
+nav li a:hover {
+    color: #7477FF;
+}
+
+.mobile-nav {
+    @apply block md:hidden fixed top-10 py-2 w-full h-full bg-gray-900 duration-500;
+}
+
+
+/* hero */
+h1 {
+    font-family: 'Pacifico', cursive;
+    line-height: 1.5 !important;
+}
