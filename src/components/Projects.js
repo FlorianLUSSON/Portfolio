@@ -3,6 +3,7 @@ import Madeleine from "../assets/Madeleine.png";
 import Poussin from "../assets/Le-poussin-tueur.png";
 import LooseWaves from "../assets/LooseWaves.jpg";
 import Dataviz from "../assets/Dataviz.png";
+import Vatnsborg from "../assets/Vatnsborg.png"
 
 const Projects = () => {
   const projects = [
@@ -30,6 +31,12 @@ const Projects = () => {
       title: "Projet Mobile Front",
       desc: "Création d'une interface utilisateur sur android avec Kotlin et Jetpack Compose",
       code: "https://github.com/adatechschool/LooseWaves",
+    },
+    {
+      img: Vatnsborg,
+      title: "Projet Perso Vatnsborg",
+      desc: "Création d'un site internet Full Stack en React pour le Front et MangoDB et Express pour le Back",
+      code: "https://github.com/FlorianLUSSON/Vatnsborg",
     },
   ];
 
