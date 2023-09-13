@@ -73,6 +73,7 @@ const Projects = () => {
                   {project.live ? (
                     <a href={project.live}
                       target="_blank"
+                      rel="noreferrer"
                       className="px-5 py-2 bg-blue-700 hover:bg-blue-800 font-bold mr-4">
                       Live
                     </a>
@@ -81,6 +82,7 @@ const Projects = () => {
                   <a
                     href={project.code}
                     target="_blank"
+                    rel="noreferrer"
                     className="px-5 py-2 bg-blue-700 hover:bg-blue-800 font-bold"
                   >
                     Code

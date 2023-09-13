@@ -27,9 +27,8 @@ const Header = () => {
           </li>
           <li>
             <a
-              href="CV Florian LUSSON.pdf"
+              href="CV F.LUSSON.pdf"
               target="_blank"
-              without
               rel="noreferrer"
             >
               Resume
