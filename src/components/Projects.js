@@ -65,6 +65,7 @@ const Projects = () => {
                 <div className="mx-auto">
                   {project.live ? (
                     <a href={project.live}
+                      target="_blank"
                       className="px-5 py-2 bg-blue-700 hover:bg-blue-800 font-bold mr-4">
                       Live
                     </a>
@@ -72,6 +73,7 @@ const Projects = () => {
 
                   <a
                     href={project.code}
+                    target="_blank"
                     className="px-5 py-2 bg-blue-700 hover:bg-blue-800 font-bold"
                   >
                     Code
