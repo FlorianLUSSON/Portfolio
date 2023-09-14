@@ -8,8 +8,7 @@ const Contact = () => {
           Contact
         </h2>
         <p className="pb-5">
-          Je suis a la recherche d'une alternance pour Ocotobre
-          alors n'hésitez pas a me contactez pour avoir de plus amples information.
+          Si vous cherchez une personne créative et motivée pour rejoindre vos équipes, n’hésitez pas à me contacter !
         </p>
 
         <p className="py-2">

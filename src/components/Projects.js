@@ -10,20 +10,20 @@ const Projects = () => {
     {
       img: Poussin,
       title: "Le Poussin Tueur",
-      desc: " Un jeu réaliser sur la plateforme Pico8 en language LUA ",
+      desc: "Un jeu réalisé sur la plateforme Pico8 en langage LUA",
       code: "https://github.com/FlorianLUSSON/pico8-le-poussin-tueur",
       live: "https://www.lexaloffle.com/bbs/?tid=51819",
     },
     {
       img: Madeleine,
       title: "Réseau Social Php",
-      desc: "Site type réseau social réaliser en PHP avec MySQl",
+      desc: "Site type réseau social réalisé en PHP avec MySQl.",
       code: "https://github.com/FlorianLUSSON/reseau-social-php-teammadeleine",
     },
     {
       img: Dataviz,
       title: "Dataviz",
-      desc: "Projet de visualisation de donnée récuperer a partir d'une API ( Réseau transport en commun de Nantes )",
+      desc: "Projet de visualisation de données récupérées a partir d’une API (Réseau transport en commun de Nantes)",
       code: "https://github.com/FlorianLUSSON/dataviz-api-TAN",
     },
     {
@@ -49,7 +49,7 @@ const Projects = () => {
           </h2>
 
           <p className="pb-5">
-            Voici certains projets que j'ai pù réaliser au cours de la formation.
+          Voici certains projets que j’ai pu réaliser au cours de la formation.
           </p>
         </div>
 
