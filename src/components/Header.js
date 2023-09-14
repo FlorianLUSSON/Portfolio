@@ -17,10 +17,10 @@ const Header = () => {
       <nav className="hidden md:block">
         <ul className="flex">
           <li>
-            <a href="/#about">About</a>
+            <a href="/#about">A Propos</a>
           </li>
           <li>
-            <a href="/#projects">Projects</a>
+            <a href="/#projects">Projets</a>
           </li>
           <li>
             <a href="/#contact">Contact</a>
@@ -31,7 +31,7 @@ const Header = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Resume
+              Mon CV
             </a>
           </li>
         </ul>
@@ -58,7 +58,7 @@ const Header = () => {
               without
               rel="noreferrer"
             >
-              Resume
+              Mon CV
             </a>
           </li>
         </ul>

@@ -16,11 +16,11 @@ const About = () => {
           </p>
 
           <p className="pb-5">
-            Actuellement à Ada Tech School pour préparer le titre RNCP de concepteur développeur d'application de niveau 6. Je sors d'un BTS en électronique et communication où j'ai pu créer une carte électronique avant de me mettre à coder dessus en C.
+          Actuellement à <a href="https://adatechschool.fr/" target="_blank" rel="noreferrer" className="underline hover:text-[#7477FF]" >Ada Tech School</a> pour préparer le titre RNCP de concepteur développeur d’application de niveau 6, je sors d’un BTS en électronique et communication où j’ai pu créer une carte électronique avant de me mettre à coder dessus en C
           </p>
 
           <p className="pb-5">
-            Dans ma formation, j'ai pu aborder plusieurs langages et frameworks tels que :<br />
+            Durant ma formation à Ada Tech School, j'ai pu aborder plusieurs langages et frameworks tels que :<br />
             HTML, CSS, JavaScript, C, React, Python, Kotlin, PHP, Tailwind...
           </p>
 
