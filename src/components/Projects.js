@@ -35,7 +35,7 @@ const Projects = () => {
     {
       img: Vatnsborg,
       title: "Projet Perso Vatnsborg",
-      desc: "Création d'un site internet Full Stack en React pour le Front et MangoDB et Express pour le Back",
+      desc: "Création d'un site internet Full Stack en React MangoDB et Express",
       code: "https://github.com/FlorianLUSSON/Vatnsborg",
     },
   ];
