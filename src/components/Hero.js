@@ -24,6 +24,7 @@ const Hero = () => {
             <a
               href="https://www.linkedin.com/in/florianlusson/" target="_blank" rel="noreferrer"
               className="pr-4 inline-block text-accent hover:text-white"
+              aria-label="Lien vers mon LinkedIn"
             >
               {" "}
               <AiOutlineLinkedin size={40} />{" "}
@@ -32,6 +33,7 @@ const Hero = () => {
             <a
               href="https://github.com/FlorianLUSSON" target="_blank" rel="noreferrer"
               className="pr-4 inline-block text-accent hover:text-white"
+              aria-label="Lien vers mon GitHub"
             >
               {" "}
               <AiOutlineGithub size={40} />{" "}
